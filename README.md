@@ -6,14 +6,15 @@
     💼 ECE Student • Competitive Programmer
     💻 System Programming • AI/ML Dev • Kernels & Compilers
     📖 Software Architecture • AI/ML Systems • Low-Level Systems
-    🎮 Code • Music • Manga
 </pre>
 <br><br>
 
 <!-- Player is broken #FIX -->
 
-[![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rjkl7pxv4mhn2yp5qyoz6ax4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=008000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rjkl7pxv4mhn2yp5qyoz6ax4&redirect=true)
+<!-- [![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rjkl7pxv4mhn2yp5qyoz6ax4&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=008000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31a2rjkl7pxv4mhn2yp5qyoz6ax4&redirect=true) -->
+
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/harshitm7)
 </div>
+
