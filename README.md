@@ -9,8 +9,9 @@
 
 <pre>
 🎓 ECE Student • Competitive Programmer  
-💻 System Programming • AI/ML Dev • Kernels & Compilers  
-📚 Software Architecture • Low-Level Systems • ML Systems  
+💻 Systems Programming • Embedded • Kernels & Compilers  
+📚 Software Architecture • Low-Level Systems • ML Compilers  
+⚙️ C • C++ • Rust • RISC-V • ARM • Python • Java
 </pre>
 
 <br>
@@ -18,3 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitm7)
 
 </div>
+
