@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center" style="
+    padding:30px;
+    border-radius:15px;
+">
 
-<!--
-**0xhrsht/0xhrsht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=48&duration=4000&pause=600&color=6FD643&center=true&vCenter=true&multiline=true&repeat=false&width=1200&height=140&lines=Hi%2C+I'm+Harshit;Welcome+to+my+GitHub!" width="75%" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+🎓 ECE Student • Competitive Programmer  
+💻 Systems Programming • Embedded • Kernels & Compilers  
+📚 Software Architecture • Low-Level Systems • ML Compilers  
+⚙️ C • C++ • OCaml • Rust • Python • RISC-V • ARM
+</pre>
+
+<br>
+
+</div>
+
+
+
+
